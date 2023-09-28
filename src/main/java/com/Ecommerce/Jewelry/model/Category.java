@@ -1,7 +1,7 @@
 package com.Ecommerce.Jewelry.model;
 
-import jakarta.persistence.*;
 
+import javax.persistence.*;
 import javax.validation.constraints.NotBlank;
 
 @Entity

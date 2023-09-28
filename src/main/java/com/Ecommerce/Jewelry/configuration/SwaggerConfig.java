@@ -25,7 +25,7 @@ public class SwaggerConfig {
     }
 
     private ApiInfo getApiInfo(){
-        Contact contact = new Contact("Ecommerce Website", "https://github.com/HienAn502/SE2_BE?fbclid=IwAR1p0pFko6_VngXdFlCzZ7du6MyscsaTNeExq0mlXHj6UZsE06k0KWuUZJw", "ttson1312@gmail.com");
+        Contact contact = new Contact("Ecommerce Website", "https://github.com/Annd0101/Ecommerce-Website.git", "ducan.co.6789@gmail.com");
         return new ApiInfoBuilder()
                 .title("Ecommerce Website API")
                 .description("Documentation and API")
